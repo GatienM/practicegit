@@ -6,7 +6,7 @@
 2. Clonez le projet sur votre machine
 `git clone ...`
 
-3. Trouvez les erreurs dissimulez dans le projet (dans le index.html seulement), corrigez les !
+3. Trouvez les erreurs dissimulées dans le projet (dans le index.html seulement), corrigez les !
 Attention 1 commit = 1 erreur !
 
 `git add .`
