@@ -7,6 +7,10 @@ body{
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
+.italic {
+  font-style: italic;
+}
+
 .floor .text {
   color: white;
   font-size: 40px;
@@ -19,6 +23,15 @@ body{
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
 }
+
+.text.desc {
+  font-size: 30px;
+  font-weight: normal;
+  -moz-transform: translateX(-50%) translateY(100%);
+  -webkit-transform: translateX(-50%) translateY(100%);
+  transform: translateX(-50%) translateY(100%);
+}
+
 .floor-1{background: #F9B233;}
 .floor-2{background: #71B5E5;}
 .floor-3{background: #B3CE4A;}
